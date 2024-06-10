@@ -1,0 +1,7 @@
+C:\Users\sanuk\OneDrive\Desktop\Programming Acitivities\SecondsToHours\SecondsToHours\bin\Debug\SecondsToHours.exe.config
+C:\Users\sanuk\OneDrive\Desktop\Programming Acitivities\SecondsToHours\SecondsToHours\bin\Debug\SecondsToHours.exe
+C:\Users\sanuk\OneDrive\Desktop\Programming Acitivities\SecondsToHours\SecondsToHours\bin\Debug\SecondsToHours.pdb
+C:\Users\sanuk\OneDrive\Desktop\Programming Acitivities\SecondsToHours\SecondsToHours\obj\Debug\SecondsToHours.csproj.AssemblyReference.cache
+C:\Users\sanuk\OneDrive\Desktop\Programming Acitivities\SecondsToHours\SecondsToHours\obj\Debug\SecondsToHours.csproj.CoreCompileInputs.cache
+C:\Users\sanuk\OneDrive\Desktop\Programming Acitivities\SecondsToHours\SecondsToHours\obj\Debug\SecondsToHours.exe
+C:\Users\sanuk\OneDrive\Desktop\Programming Acitivities\SecondsToHours\SecondsToHours\obj\Debug\SecondsToHours.pdb
